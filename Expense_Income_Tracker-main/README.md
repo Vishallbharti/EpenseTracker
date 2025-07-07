@@ -1,18 +1,18 @@
 # Expense and Income Tracker
 
-A simple Java-based application for tracking expenses and incomes. Manage your financial transactions with an easy-to-use interface.
+A lightweight Java application for managing expenses and incomes through a user-friendly interface.
 
 ## Features
 
-- **Add Entries:** Easily add new expense or income entries with details such as date, description, amount, and type.
+- **Add Entries:** Quickly add expense or income records with date, description, amount, and type.
+  
+- **Edit and Remove Entries:** Update or delete existing records as needed.
 
-- **Edit and Remove Entries:** Modify or remove existing entries to update your financial records.
+- **Balance Calculation:** Automatically displays the current balance based on all transactions.
 
-- **Balance Calculation:** Dynamically calculates and displays the current balance based on entered expenses and incomes.
+- **Data Persistence:** Saves data locally to retain records across file.
 
-- **Data Persistence:** Entries are saved to a local file, ensuring that your financial data is retained even after closing the application.
-
-- **Date Formatting and Filtering:** Entries are organized by date, and you can filter and sort them for a clearer overview.
+- **Date Formatting and Filtering:** Organize, filter, and sort entries by date for better clarity.
 
 ## Usage
 
